@@ -23,6 +23,6 @@ run_analysis.R does the following:
 ## Usage
 ========================================================
 
->Rscript run_analysis.R
+> Rscript run_analysis.R
 
 File 'extracted-tiny-data.txt' is generated ('\t' is used as delimeter).
